@@ -30,17 +30,34 @@ const kViolet= Color(0xffA900FF);
 const kCoral= Color(0xffFF7F50);
 const kSilver= Color(0xff999898);
 const kGold= Color(0xffCEA247);
+<<<<<<< HEAD
+=======
+const skyColor = Color(0xFF569CD4);
+>>>>>>> khalid_bf
 
 //text color
 const Color blackTextColor = Color(0xFF000000);
 const Color textWhiteColor = Color(0xFFFFFFFF);
 const Color textGreyColor = Color(0xff626262);
+<<<<<<< HEAD
 
 //app primary
 const appBarBgColor = Color(0xffE1020A);
 const primaryColor = Color(0xFF35BEAE);
 const bgColor = Color(0xffEDEDED);
 const Color borderColor = Color(0xFFFFFFFF);
+=======
+const cyanTextColor = Color(0xFF35BEAE);
+const skyTextColor = Color(0xFF569CD4);
+
+
+//app primary
+const appBarBgColor =Colors.white;
+const primaryColor = Color(0xFF35BEAE);
+const bgColor = Colors.white;
+const Color borderColor = Colors.grey;
+const skyBorderColor = Color(0xFF569CD4);
+>>>>>>> khalid_bf
 const Color suffixIconColor = Color(0xff8E8E8E);
 const Color greyBorderColor = Color(0xffADADAD);
 const Color dividerColor = Color(0xffEDEDED);
